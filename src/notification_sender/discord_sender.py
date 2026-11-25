@@ -162,7 +162,7 @@ class DiscordSender:
         """
         payload = {
             'content': content,
-            'username': 'A股分析机器人',
+            'username': 'Stock Analysis Bot',
             'avatar_url': 'https://picsum.photos/200'
         }
 
